@@ -1,0 +1,24 @@
+2026-09-29 16:09:00  Organizer started (LIVE) source=samples/messy target=samples/messy
+2026-09-29 16:09:00  MOVE  samples/messy/backup.zip  ->  samples/messy/Archives/backup.zip
+2026-09-29 16:09:00  MOVE  samples/messy/budget.xlsx  ->  samples/messy/Documents/budget.xlsx
+2026-09-29 16:09:00  MOVE  samples/messy/clip.mp4  ->  samples/messy/Video/clip.mp4
+2026-09-29 16:09:00  MOVE  samples/messy/diagram.svg  ->  samples/messy/Images/diagram.svg
+2026-09-29 16:09:00  MOVE  samples/messy/holiday.jpg  ->  samples/messy/Images/holiday.jpg
+2026-09-29 16:09:00  MOVE  samples/messy/inbox/holiday.jpg  ->  samples/messy/Images/holiday (1).jpg  [renamed: name conflict]
+2026-09-29 16:09:00  MOVE  samples/messy/index.html  ->  samples/messy/Code/index.html
+2026-09-29 16:09:00  MOVE  samples/messy/logo.PNG  ->  samples/messy/Images/logo.PNG
+2026-09-29 16:09:00  MOVE  samples/messy/movie.mkv  ->  samples/messy/Video/movie.mkv
+2026-09-29 16:09:00  MOVE  samples/messy/mystery.xyz  ->  samples/messy/Others/mystery.xyz
+2026-09-29 16:09:00  MOVE  samples/messy/notes.txt  ->  samples/messy/Documents/notes.txt
+2026-09-29 16:09:00  MOVE  samples/messy/old_files.7z  ->  samples/messy/Archives/old_files.7z
+2026-09-29 16:09:00  MOVE  samples/messy/photo.jpeg  ->  samples/messy/Images/photo.jpeg
+2026-09-29 16:09:00  MOVE  samples/messy/podcast.wav  ->  samples/messy/Audio/podcast.wav
+2026-09-29 16:09:00  MOVE  samples/messy/project.tar.gz  ->  samples/messy/Archives/project.tar.gz
+2026-09-29 16:09:00  MOVE  samples/messy/README_noext  ->  samples/messy/Others/README_noext
+2026-09-29 16:09:00  MOVE  samples/messy/report.pdf  ->  samples/messy/Documents/report (1).pdf  [renamed: name conflict]
+2026-09-29 16:09:00  MOVE  samples/messy/resume.docx  ->  samples/messy/Documents/resume.docx
+2026-09-29 16:09:00  MOVE  samples/messy/script.py  ->  samples/messy/Code/script.py
+2026-09-29 16:09:00  MOVE  samples/messy/slides.pptx  ->  samples/messy/Documents/slides.pptx
+2026-09-29 16:09:00  MOVE  samples/messy/song.mp3  ->  samples/messy/Audio/song.mp3
+2026-09-29 16:09:00  Summary: Archives=3, Audio=2, Code=2, Documents=5, Images=5, Others=2, Video=2
+2026-09-29 16:09:00  Done: 21 files moved (2 renamed to avoid conflicts).

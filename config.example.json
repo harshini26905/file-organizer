@@ -1,0 +1,11 @@
+{
+  "fallback": "Others",
+  "categories": {
+    "Images": [".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"],
+    "Documents": [".pdf", ".docx", ".txt", ".xlsx", ".pptx", ".csv"],
+    "Archives": [".zip", ".tar", ".gz", ".7z", ".rar"],
+    "Audio": [".mp3", ".wav", ".flac"],
+    "Video": [".mp4", ".mkv", ".mov"],
+    "Ebooks": [".epub", ".mobi"]
+  }
+}
